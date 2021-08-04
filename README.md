@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RizkyAdhiNugroho
+- 👋 Hi, I’m Rizky Adhi Nugroho
 - 👀 I’m interested in Data
 - 🌱 I’m Statistics Student 
 - 💞️ I’m currently learning computational statistics and Data science
