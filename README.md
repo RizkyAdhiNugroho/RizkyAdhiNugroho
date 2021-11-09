@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rizky Adhi Nugroho
 - 👀 I’m interested in Data
 - 🌱 I’m Statistics Student 
-- 💞️ I’m currently learning computational statistics and Data science
+- 💞️ I’m currently learning computational statistics, machine learning and Data science
 - 📫 How to reach me --> nugrohorizkyadhi@gmail.com
 
 <!---
