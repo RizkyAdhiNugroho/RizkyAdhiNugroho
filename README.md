@@ -1,13 +1,30 @@
-- 👋 Hi, I’m Rizky Adhi Nugroho
-- 👀 I’m interested in Data
-- 🌱 I’m Statistics Student 
-- 💞️ I’m currently learning computational statistics, machine learning and Data science
-- 📫 How to reach me --> nugrohorizkyadhi@gmail.com
+### Hi, I'm Rizky Adhi Nugroho 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizkyAdhiNugroho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-My GitHub Stats
+**Business & System Analyst, IT Back Office** at a multifinance company in Jakarta, Indonesia.
+I turn business needs into working systems for finance, accounting and regulatory reporting, from requirement gathering to go-live.
 
-<!---
-RizkyAdhiNugroho/RizkyAdhiNugroho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Portfolio:** [rizkyadhinugroho.github.io/porto](https://rizkyadhinugroho.github.io/porto)
+
+#### What I work on
+- Functional & technical design for core financing, accounting and regulatory reporting systems
+- Bank integration: real-time API, Host-to-Host and payment file automation
+- Code-level analysis of Oracle PL/SQL before designing every solution
+- Using generative AI to speed up analysis, documentation and testing
+
+#### Background
+- 🎓 Bachelor of Statistics, Universitas Diponegoro (2019 – 2023)
+- 📄 IEEE Xplore publication on sentiment classification (2023)
+- 📊 Earlier work in data analysis, data visualization and machine learning
+
+#### Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+
+#### Reach me
+📫 nugrohorizkyadhi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/rizky-adhi-nugroho)
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RizkyAdhiNugroho&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
