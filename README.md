@@ -26,5 +26,3 @@ I turn business needs into working systems for finance, accounting and regulator
 
 #### Reach me
 📫 nugrohorizkyadhi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/rizky-adhi-nugroho)
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RizkyAdhiNugroho&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
